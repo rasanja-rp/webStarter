@@ -1,0 +1,28 @@
+  <title>TITLE</title>
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Rasanja Perera Portfolio" />
+    <meta
+      name="Keywords"
+      content="Rasanja Perera, Portfolio, Front-End Developer, Developer, Web developer , Sri Lanka"
+    />
+
+    <!-- <meta name="description" content="Rasanja | Front-End Developer with a passion for designing beautiful and functional user experiences.">  -->
+
+    <meta property="og:site_name" content="rasanja.netlify.app" />
+    <meta property="og:title" content="Rasanja Perera Portfolio" />
+    <meta
+      property="og:description"
+      content="I’m a design minded front-end web-developer"
+    />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@rasanjaperera" />
+    <meta name="twitter:creator" content="@rasanja" />
+    <meta name="twitter:title" content="rasanja.netlify.app" />
+    <meta
+      name="twitter:description"
+      content="I’m a design minded front-end web-developer"
+    />
+    <meta name="twitter:app:country" content="SL" />

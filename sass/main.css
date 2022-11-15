@@ -1,0 +1,25 @@
+:root {
+  --color-primary: #fc2626;
+  --color-primary-12: rgb(133, 131, 131);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+a {
+  background-color: black;
+}/*# sourceMappingURL=main.css.map */
