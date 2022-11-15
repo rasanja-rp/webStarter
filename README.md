@@ -1,2 +1,2 @@
-# webStarter
+# webstarter
 webdev project starter pack
